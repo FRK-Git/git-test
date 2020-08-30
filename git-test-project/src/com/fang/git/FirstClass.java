@@ -8,6 +8,8 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //主要是打印
+        System.out.println("enen");
     }
 
     public void test(){
